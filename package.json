@@ -296,7 +296,7 @@
     "schema-utils": "^1.0.0",
     "script-loader": "^0.7.2",
     "semver": "^5.5.0",
-    "serialize-javascript": "^1.6.1",
+    "serialize-javascript": "^2.1.1",
     "set-blocking": "^2.0.0",
     "set-value": "^2.0.0",
     "setimmediate": "^1.0.5",
