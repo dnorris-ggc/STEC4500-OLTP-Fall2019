@@ -184,7 +184,7 @@
     "json5": "^0.5.1",
     "jsonfile": "^4.0.0",
     "jsonify": "^0.0.0",
-    "kind-of": "^6.0.2",
+    "kind-of": "^6.0.3",
     "lcid": "^2.0.0",
     "loader-runner": "^2.4.0",
     "loader-utils": "^1.1.0",
