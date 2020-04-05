@@ -14,7 +14,7 @@
   "dependencies": {
     "@types/jquery": "^3.3.29",
     "@types/node": "^10.12.21",
-    "acorn": "^6.1.0",
+    "acorn": "^6.4.1",
     "acorn-dynamic-import": "^4.0.0",
     "agent-base": "^4.2.0",
     "ajv": "^6.7.0",
